@@ -50,7 +50,7 @@ let lunghezza = teachers.length;
 
 
 // 8. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
-// e salvalo nella variabile lewisIndex 5
+// e salvalo nella variabile lewisIndex 
 const lewisIndex = teachers.indexOf("Lewis") ;
 console.log(lewisIndex)
 
